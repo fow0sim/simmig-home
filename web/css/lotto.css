@@ -1,0 +1,36 @@
+
+#LottoBox {
+    font-family: Arial,Verdana,Helvetica,sans-serif;
+    color: #0066CC;
+}
+
+#LottoBox table {
+    text-align: center;
+}
+
+#LottoBox caption {
+    font-size: 12pt;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #0066CC;
+}
+
+#LottoBox tbody {
+    border: 1px solid #0066CC;
+}
+
+#LottoBox tbody td {
+    border: 1px solid #0066CC;
+}
+
+#LottoBox tbody td.hi {
+    color: #CC0000;
+    font-style: normal;
+    font-weight: bold;
+}
+
+#LottoBox tfoot button {
+    font-weight: bold;
+    width: 100%;
+    height: 24px;
+}
